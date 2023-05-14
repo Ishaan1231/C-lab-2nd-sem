@@ -1,0 +1,49 @@
+Welcome to the ATM machine!
+
+Menu:
+1. View Balance
+2. Withdraw
+3. Deposit
+4. Change PIN
+5. Exit
+Enter your choice: 1
+Current Balance: $1000.00
+
+Menu:
+1. View Balance
+2. Withdraw
+3. Deposit
+4. Change PIN
+5. Exit
+Enter your choice: 2
+Enter the amount to withdraw: 500
+Withdrawal successful. Current Balance: $500.00
+
+Menu:
+1. View Balance
+2. Withdraw
+3. Deposit
+4. Change PIN
+5. Exit
+Enter your choice: 3
+Enter the amount to deposit: 200
+Deposit successful. Current Balance: $700.00
+
+Menu:
+1. View Balance
+2. Withdraw
+3. Deposit
+4. Change PIN
+5. Exit
+Enter your choice: 4
+Enter new PIN: 4321
+PIN changed successfully.
+
+Menu:
+1. View Balance
+2. Withdraw
+3. Deposit
+4. Change PIN
+5. Exit
+Enter your choice: 5
+Thank you for using the ATM machine. Goodbye!
